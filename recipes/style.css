@@ -6,3 +6,18 @@ img {
     height: auto;
     width: 600px;
 }
+
+* {
+    background-color: #F9F7E8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main {
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+ul {
+    text-align: left;
+}

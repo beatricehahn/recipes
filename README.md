@@ -11,7 +11,7 @@ The website landing page has three links - each recipe is on its own webpage.
 
 ## Purpose of project
 * practice vanilla HTML and CSS without a framework
-* review the use of semantic HTML tags such as <article> and <section>
+* review the use of semantic HTML tags such as `<article>` and `<section>`
 
 
 

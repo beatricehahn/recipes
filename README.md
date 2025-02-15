@@ -10,7 +10,8 @@ This features 3 traditional japanese recipes:
 The website landing page has three links - each recipe is on its own webpage.
 
 ## Purpose of project
-The purpose is to practice vanilla HTML and CSS without a framework.
+* practice vanilla HTML and CSS without a framework
+* review the use of semantic HTML tags such as <article> and <section>
 
 
 
